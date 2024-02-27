@@ -1,0 +1,27 @@
+div {
+    height: 40px;
+    width: 40px;
+    background-color: whitesmoke;
+    margin: 8px;
+    margin: left 50px;
+}
+
+body {
+    background-color:teal
+}
+h1 {
+    color: navy;
+}
+
+section {
+    background-color: white;
+    padding-top: 10px;
+    border: 25px;
+    margin: 8px;
+}
+img {
+    border-radius: 8px;
+    max-width: 100;
+    height: auto;
+    display: block;
+}
